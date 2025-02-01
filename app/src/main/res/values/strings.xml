@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AnixonComponents</string>
+
+    <string name="mixer_sound_default_energy">Энергичное</string>
+    <string name="mixer_sound_default_relax">Спокойное</string>
+    <string name="mixer_sound_default_fun">Веселое</string>
+    <string name="mixer_sound_default_sad">Грустное</string>
 </resources>
